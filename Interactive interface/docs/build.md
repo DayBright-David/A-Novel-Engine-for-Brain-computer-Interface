@@ -37,7 +37,7 @@
 
 将包含目录和库目录添加到 Visual Studio 的依赖中，在 Visual Studio 中选择工程属性 - VC++ 目录，如下图添加：
 
-![1](.\source\1.PNG)
+![1](source/1.PNG)
 
 * FreeType
 
@@ -63,6 +63,6 @@
 
 在 Visual Studio 工程属性中设置 C/C++ 属性，在输入选项中添加相关库，如下图所示：
 
-![2](source\2.PNG)
+![2](source/2.PNG)
 
 如果要生成 debug 版本，需要将配置改为 debug 重新设置一遍。
