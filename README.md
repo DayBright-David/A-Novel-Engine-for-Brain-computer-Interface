@@ -2,6 +2,7 @@
 
 
 
+![1](source/software_architecture.PNG)
 
 
 
