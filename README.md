@@ -2,7 +2,7 @@
 
 
 
-![1](Source/software_architecture.png)
+![1](Source/software_architecture.jpg)
 
 
 
