@@ -1,4 +1,4 @@
-# A Novel Platform for Brain-computer Interfaces
+# A Novel Engine for Brain-computer Interfaces
 
 The project is ongoing...
 
