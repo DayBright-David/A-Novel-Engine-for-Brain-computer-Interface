@@ -1,4 +1,4 @@
-# A Novel Platform for Brain-computer Interface
+# A Novel Platform for Brain-computer Interfaces
 
 
 
