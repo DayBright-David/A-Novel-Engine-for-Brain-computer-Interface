@@ -15,6 +15,8 @@ The project is ongoing...
 ## Modules and Vital Functions
 
 
+## Core Technology
+
 ### 1. Time synchronization
 Ref: Lab Streaming Layer (LSL), https://github.com/sccn/labstreaminglayer
 
