@@ -5,9 +5,6 @@
 
 The project is ongoing...
 
-![1](Source/software_architecture.jpg)
-
-
 ## What is it?
 
 
@@ -20,3 +17,10 @@ Time synchronization: https://github.com/sccn/labstreaminglayer
 
 
 ## Installation
+
+
+
+![1](Source/software_architecture.jpg)
+
+
+
