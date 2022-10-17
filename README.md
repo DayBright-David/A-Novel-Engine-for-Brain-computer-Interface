@@ -20,17 +20,17 @@ Lab Streaming Layer (LSL)
 
 
 ## Installation
- 1. For Windows:
+ **1. For Windows:**
 
 
- 2. For Linux
+ **2. For Linux**
 
 
- 3. For Android
+ **3. For Android**
 
 
 
-### 4. For IOS
+ **4. For IOS**
 
 
 ### 5. For Linux
