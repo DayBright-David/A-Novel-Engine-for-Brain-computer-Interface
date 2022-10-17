@@ -28,20 +28,10 @@ Lab Streaming Layer (LSL)
  **1. For Windows:**
 
 
+ **2. For Android**
 
- **2. For Linux**
-
-
-
- **3. For Android**
-
-
-
- **4. For iOS**
-
-
-
- **5. For macOS**
+ 
+ 
 
 ## Architecture
 
