@@ -20,7 +20,7 @@ Lab Streaming Layer (LSL)
  Ref: https://github.com/sccn/labstreaminglayer
 
 ### 2. The primary execution thread and other auxiliary thread
-Discuss: What is the primary execution thread and the auxiliary thread?
+Discuss: What are the primary execution thread and the auxiliary thread in our engine?
 
 
 ## Installation
