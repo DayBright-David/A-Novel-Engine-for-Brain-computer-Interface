@@ -6,9 +6,9 @@
 
 ## Evaluate
 
-![2](sources/8_158Hz_60_fft.png）
+![2](sources/8_158Hz_60_fft.png)
 
-![3](sources/8_158Hz_large_60_fft.png）
+![3](sources/8_158Hz_large_60_fft.png)
 
 
 ## Dependency
