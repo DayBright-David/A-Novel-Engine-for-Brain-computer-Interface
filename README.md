@@ -9,6 +9,9 @@ The project is ongoing...
 ## What is it?
 
 
+## Usage Locally
+
+
 ## Modules and Vital Functions
 
 
