@@ -36,7 +36,7 @@ Lab Streaming Layer (LSL)
 
 
 
-### 5. For macOS
+ **5. For macOS
 
 ## Architecture
 
