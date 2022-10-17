@@ -8,5 +8,15 @@ The project is ongoing...
 ![1](Source/software_architecture.jpg)
 
 
+## What is it?
 
 
+## Modules and Vital Functions
+
+
+Time synchronization: https://github.com/sccn/labstreaminglayer
+
+
+
+
+## Installation
