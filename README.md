@@ -12,6 +12,7 @@ The project is ongoing...
 
 
 ### 1. Time synchronization
+Lab Streaming Layer (LSL)
  Ref: https://github.com/sccn/labstreaminglayer
 
 
