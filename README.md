@@ -28,7 +28,7 @@ Lab Streaming Layer (LSL)
  **1. For Windows:**
 
 
- **2. For Android**
+ **2. For Android:**
 
  
  
