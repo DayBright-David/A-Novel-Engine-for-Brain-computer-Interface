@@ -16,8 +16,7 @@ The project is ongoing...
 
 
 ### 1. Time synchronization
-Lab Streaming Layer (LSL)
- Ref: https://github.com/sccn/labstreaminglayer
+Ref:Lab Streaming Layer (LSL), https://github.com/sccn/labstreaminglayer
 
 ### 2. The primary execution thread and other auxiliary thread
 Discuss: What are the primary execution thread and the auxiliary thread in our system?
