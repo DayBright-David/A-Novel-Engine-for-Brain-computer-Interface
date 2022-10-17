@@ -11,7 +11,8 @@ The project is ongoing...
 ## Modules and Vital Functions
 
 
-Time synchronization: https://github.com/sccn/labstreaminglayer
+### Time synchronization
+ Ref: https://github.com/sccn/labstreaminglayer
 
 
 
