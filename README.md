@@ -20,6 +20,8 @@ Lab Streaming Layer (LSL)
 
 
 ## Installation
+*Cross-platform*
+
  **1. For Windows:**
 
 
