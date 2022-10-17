@@ -11,7 +11,7 @@ The project is ongoing...
 ## Modules and Vital Functions
 
 
-### Time synchronization
+### 1. Time synchronization
  Ref: https://github.com/sccn/labstreaminglayer
 
 
