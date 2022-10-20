@@ -14,7 +14,7 @@ The project is ongoing...
 
 ### 1. Software Design Automation
 
- Multi-task
+ Multi-task...
 
 ### 2. How to train a model?
 
