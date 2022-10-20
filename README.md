@@ -31,8 +31,7 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
 
 
  **2. For Android:**
-
- 
+ Ref:OpenGLES2之Android&iOS跨平台开发教程（一）Android端构建(https://blog.csdn.net/suwk1009/article/details/80583830) 
  
 
 ## Architecture
