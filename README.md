@@ -14,6 +14,12 @@ The project is ongoing...
 
 ### 1. Software Design Automation
 
+ Multi-task
+
+### 2. How to train a model?
+
+ Paradigm designing...
+
 
 ## Core Technology（Only for Shaoyang and Bo）
 
