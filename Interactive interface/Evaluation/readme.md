@@ -3,6 +3,8 @@
 ## 1. Test frequency acuracy
 
 
+
+
 ## 2. Test stimulator on different machine
 
 ### (1) Desktop computer()
