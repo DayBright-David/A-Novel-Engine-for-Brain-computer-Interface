@@ -19,5 +19,5 @@
 ![3](12Hz_pbs_pc_62.png)
 
 ### (2) No-signal channel on Desktop computer()
-![1](12Hz_pbs_pc_8.png)
+![4](12Hz_pbs_pc_8.png)
 
