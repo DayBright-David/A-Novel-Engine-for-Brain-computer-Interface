@@ -12,7 +12,7 @@
 
 
 ### (2) Notebook computer()
-![2](12Hz_thinkpad_62.png)
+![2](12Hz_thikpad_62.png)
 
 
 ## Supplyment
