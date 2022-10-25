@@ -16,7 +16,7 @@
 
 
 
-## 3. Test stimulator on different machine taking 12Hz for insitance.
+## 4. Test stimulator on different machine taking 12Hz for insitance.
 
 ### (1) Desktop computer(RAM:32GB, GPU:NVIDIA Quadro RTX 4000, Screen refresh rate: 60Hz)
 ![1](12Hz_pbs_pc_62.png)
