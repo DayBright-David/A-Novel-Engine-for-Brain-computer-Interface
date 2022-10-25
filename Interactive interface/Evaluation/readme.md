@@ -18,6 +18,6 @@
 ### (1) Signal channel on Desktop computer() 
 ![3](12Hz_pbs_pc_62.png)
 
-### (1) No-signal channel on Desktop computer()
+### (2) No-signal channel on Desktop computer()
 ![1](12Hz_pbs_pc_8.png)
 
