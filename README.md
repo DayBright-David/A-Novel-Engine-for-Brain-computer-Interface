@@ -6,6 +6,8 @@ The project is ongoing...
 
 ## What is it?
 
+![1](Source/BCI structure.png)
+
 
 ## Usage Locally
 
