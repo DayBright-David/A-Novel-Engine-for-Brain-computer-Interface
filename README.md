@@ -29,6 +29,7 @@ The project is ongoing...
  
 ### 4. Communication module
   https://realpython.com/python-sockets/
+  Socket API: https://docs.python.org/3/library/socket.html
  
 
 ## Core Technology（Only for Shaoyang and Bo）
