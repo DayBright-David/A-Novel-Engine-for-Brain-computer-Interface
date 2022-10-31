@@ -52,7 +52,7 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
 
 ## Architecture
 
-![1](Source/software_architecture.jpg)
+![2](Source/software_architecture.jpg)
 
 
 
