@@ -28,7 +28,8 @@ The project is ongoing...
  
  
 ### 4. Communication module
-  https://realpython.com/python-sockets/
+  https://realpython.com/python-sockets/ 
+  
   Socket API: https://docs.python.org/3/library/socket.html
  
 
