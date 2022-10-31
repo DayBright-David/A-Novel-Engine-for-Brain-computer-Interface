@@ -6,7 +6,7 @@ The project is ongoing...
 
 ## What is it?
 
-![1](Source/BCI structure.png)
+![1](Source/BCI_structure.jpg)
 
 
 ## Usage Locally
