@@ -16,10 +16,12 @@ The project is ongoing...
 
  Multi-task...
 
-### 2. How to train a model?
+### 2. How to train a deep learning model?
 
  Paradigm designing...
-
+ 
+### 3. CCA based Plug-and-Play BCI
+ https://github.com/aaravindravi/PythonBox_OpenViBE_SSVEP_CCA/blob/master/4ClassCCA.py
 
 ## Core Technology（Only for Shaoyang and Bo）
 
