@@ -22,6 +22,11 @@ The project is ongoing...
  
 ### 3. CCA based Plug-and-Play BCI
  https://github.com/aaravindravi/PythonBox_OpenViBE_SSVEP_CCA/blob/master/4ClassCCA.py
+ 
+ 
+### 4. Communication module
+  https://realpython.com/python-sockets/
+ 
 
 ## Core Technology（Only for Shaoyang and Bo）
 
