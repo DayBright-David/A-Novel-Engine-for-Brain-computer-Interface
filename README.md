@@ -7,7 +7,7 @@ The project is ongoing...
 ## What is it?
 
 
-<width = "814", height = "539", dev align = center > ![1](Source/BCI_structure.jpg)
+<width = "814", height = "539", dev align = center>![1](Source/BCI_structure.jpg)
 
 
 ## Usage Locally
