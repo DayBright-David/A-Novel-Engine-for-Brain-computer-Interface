@@ -32,7 +32,7 @@ The project is ongoing...
   
   Socket API: https://docs.python.org/3/library/socket.html
   
-  **C++-coded client && python-coded server**: https://blog.csdn.net/qq_33485434/article/details/88050577 ，https://blog.csdn.net/lifeisme666/article/details/117876854?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-117876854-blog-88050577.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-117876854-blog-88050577.pc_relevant_default&utm_relevant_index=2
+  **C++-coded client && python-coded server**: https://blog.csdn.net/qq_33485434/article/details/88050577 ，https://blog.csdn.net/lifeisme666/article/details/117876854?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-117876854-blog-88050577.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-117876854-blog-88050577.pc_relevant_default&utm_relevant_index=2 ， https://www.cnblogs.com/aylin/p/5572104.html
   
 
 ## Core Technology（Only for Shaoyang and Bo）
