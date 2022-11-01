@@ -69,7 +69,7 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
 
 
 ## 系统研发讨论
-
+与陈雪松的讨论札记： 
 1. 持续对时序信号做test操作，如果置信度稳定上升，则认为用户在选择某个目标；如果下降又上升，则认为用户在转换目标。（新范式）
 2. 基于扩展交互界面的multi-task, 基于EEG信号的transfer learning
 3. 授时，server端授时，每隔一段时间与client端进行时间校正（代替并口trigger）
