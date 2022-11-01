@@ -48,6 +48,7 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
 *Cross-platform*
 
  **1. For Windows:** 
+ 
  Ref: Qt OpenGL https://doc.qt.io/qt-6/qtopengl-index.html 
 
  **2. For Android:**
