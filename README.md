@@ -32,7 +32,7 @@ The project is ongoing...
   
   Socket API: https://docs.python.org/3/library/socket.html
   
-  C++-coded client && python-coded server: https://blog.csdn.net/qq_33485434/article/details/88050577 
+  **C++-coded client && python-coded server**: https://blog.csdn.net/qq_33485434/article/details/88050577 
   
 
 ## Core Technology（Only for Shaoyang and Bo）
