@@ -51,14 +51,13 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
  
  Ref: 
  Qt OpenGL https://doc.qt.io/qt-6/qtopengl-index.html  
- Qt OpenGL Demo https://github.com/linmx0130/QGLDemo/tree/ch0 
+ Qt OpenGL Demo https://zhuanlan.zhihu.com/p/97457249, https://github.com/linmx0130/QGLDemo/tree/ch0 
  
  **2. For Android:** 
  
 
  Ref: 
  Qt for Android Examples https://doc.qt.io/qt-6/examples-android.html 
- 
  OpenGLES2之Android&iOS跨平台开发教程（一）Android端构建(https://blog.csdn.net/suwk1009/article/details/80583830) 
  
 ## Architecture
