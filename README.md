@@ -49,8 +49,10 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
 
  **1. For Windows:** 
  
- Ref: Qt OpenGL https://doc.qt.io/qt-6/qtopengl-index.html 
-
+ Ref: 
+ Qt OpenGL https://doc.qt.io/qt-6/qtopengl-index.html  
+ Qt OpenGL Demo https://github.com/linmx0130/QGLDemo/tree/ch0 
+ 
  **2. For Android:** 
  
 
