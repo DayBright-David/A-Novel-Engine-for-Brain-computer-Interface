@@ -51,8 +51,9 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
  
  Ref: Qt OpenGL https://doc.qt.io/qt-6/qtopengl-index.html 
 
- **2. For Android:**
+ **2. For Android:** 
  
+
  Ref: 
  Qt for Android Examples https://doc.qt.io/qt-6/examples-android.html 
  
