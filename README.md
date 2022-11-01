@@ -53,9 +53,11 @@ Discuss: What are the primary execution thread and the auxiliary thread in our s
 
  **2. For Android:**
  
- Ref:OpenGLES2之Android&iOS跨平台开发教程（一）Android端构建(https://blog.csdn.net/suwk1009/article/details/80583830) 
+ Ref: 
+ Qt for Android Examples https://doc.qt.io/qt-6/examples-android.html 
  
-
+ OpenGLES2之Android&iOS跨平台开发教程（一）Android端构建(https://blog.csdn.net/suwk1009/article/details/80583830) 
+ 
 ## Architecture
 
 ![2](Source/software_architecture.jpg)
