@@ -44,7 +44,7 @@ Ref: Lab Streaming Layer (LSL), https://github.com/sccn/labstreaminglayer
 Discuss: What are the primary execution thread and the auxiliary thread in our system?
 
 
-## Installation
+## Environment
 *Cross-platform*
 
  **1. For Windows:** 
