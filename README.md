@@ -20,7 +20,7 @@ The project is ongoing...
  Multi-task...
  
  EEG and EOG based Computer input device:
-![2](Source/input_device.jpg)
+![2](Source/Input_device.jpg)
 
 
 ### 2. How to train a deep learning model?
