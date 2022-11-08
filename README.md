@@ -27,7 +27,6 @@ The project is ongoing...
 
 Non-invasive continuous neural tracking of computer output device
 
-
 ### 2. How to train a deep learning model?
 
  Paradigm designing...
