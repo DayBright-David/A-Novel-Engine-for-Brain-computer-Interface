@@ -25,7 +25,7 @@ The project is ongoing...
  
 ![2](Source/Input_device.jpg)
 
-***Slack1: Non-invasive Brain-computer Interface based Controlling of Computer Output Devices*** 
+***Slack1: Non-invasive Brain-computer Interface based Controlling of Computer Input Devices*** 
 
    Ref: Noninvasive neuroimagning enhances continuous neural tracking for robotic device control
 
