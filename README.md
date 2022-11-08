@@ -25,7 +25,7 @@ The project is ongoing...
  
 ![2](Source/Input_device.jpg)
 
-Non-invasive controlling of computer output devices 
+**Non-invasive controlling of computer output devices** 
 
    Ref: Noninvasive neuroimagning enhances continuous neural tracking for robotic device control
 
