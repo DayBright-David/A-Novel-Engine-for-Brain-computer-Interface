@@ -18,16 +18,16 @@ The project is ongoing...
 ### 1. Software Design Automation
 
 * Multi-task... 
- 
- Ref: Learn2Reg: comprehensive multi-task medical image registration challenge, dataset and evaluation in the era of deep learning 
+     
+   Ref: Learn2Reg: comprehensive multi-task medical image registration challenge, dataset and evaluation in the era of deep learning 
  
 * EEG and EOG based Computer Input Device: 
  
 ![2](Source/Input_device.jpg)
 
-Non-invasive continuous neural tracking of computer output device
+Non-invasive controlling of computer output devices 
 
-
+   Ref: Noninvasive neuroimagning enhances continuous neural tracking for robotic device control
 
 ### 2. How to train a deep learning model?
 
