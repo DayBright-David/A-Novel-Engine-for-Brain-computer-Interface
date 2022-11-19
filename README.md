@@ -58,6 +58,9 @@ Ref: Lab Streaming Layer (LSL), https://github.com/sccn/labstreaminglayer
 ### 2. The primary execution thread and other auxiliary thread
 Discuss: What are the primary execution thread and the auxiliary thread in our system?
 
+### 3. 透明 <br>
+https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/03%20Blending/
+
 
 ## Environment
 *Cross-platform*
