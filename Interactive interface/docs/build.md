@@ -1,4 +1,4 @@
-# 交互界面
+# SSVEP-BCI Stim
 
 ## Build
 
