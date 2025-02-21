@@ -56,7 +56,7 @@ Ref: Lab Streaming Layer (LSL), https://github.com/sccn/labstreaminglayer
 ### 2. The primary execution thread and other auxiliary thread
 Discuss: What are the primary execution thread and the auxiliary thread in our system?
 
-### 3. 透明 <br>
+### 3. Transparent <br>
 https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/03%20Blending/
 
 
@@ -75,7 +75,7 @@ https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/03%20Blending/
 ![2](Source/software_architecture.jpg)
 
 
-System Development Discussion
+ **System Development Discussion**
 
 Temporal Signal Testing and Target Selection:
 "Continuous testing operations are performed on temporal signals. If the confidence level demonstrates a stable upward trend, it is inferred that the user is selecting a specific target. Conversely, if the confidence level initially declines and subsequently rises, it indicates that the user is switching targets."
@@ -91,13 +91,13 @@ Port Number Assignment:
 "Assign the port number corresponding to NeuroScan's port assignment." 
 Explanation of Key Terms and Nuances:
 
-Temporal Signals:
+**Temporal Signals:**
 This refers to signals that vary over time, crucial in analyzing dynamic systems like brain activity.
 Confidence Level:
 This represents the probability or certainty associated with a specific interpretation of the signal.
-Transfer Learning:
+**Transfer Learning:**
 A machine learning technique where a model trained on one task is repurposed as a starting point for a model on a second related task. This is highly useful when data is sparse for a target task, but very abundant for a related source task.
-EEG (Electroencephalography):
+**EEG (Electroencephalography):**
 A non-invasive method for recording electrical activity in the brain.
 DSI (Dense Sensor Interface):
 This is a term that could have specialized context, but from the surrounding context, would be assumed to be relating to how the system is interfacing with its sensors, so a modification of the DSI function, would mean a modification to how the sensor data is being handled.
