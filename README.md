@@ -90,7 +90,7 @@ Wi-Fi for EEG Data Transmission:
 DSI Function Modification:
 "Modify DSI functions to enable the integration of new hardware."
 Port Number Assignment:
-"Assign the port number corresponding to NeuroScan's port assignment." (Note regarding discussion records with Chen Xuesong.)
+"Assign the port number corresponding to NeuroScan's port assignment." 
 Explanation of Key Terms and Nuances:
 
 Temporal Signals:
