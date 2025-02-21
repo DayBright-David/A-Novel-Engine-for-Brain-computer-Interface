@@ -2,8 +2,6 @@
 
 
 
-The project is ongoing...
-
 ## What is it?
 
 
