@@ -77,15 +77,40 @@ https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/03%20Blending/
 ![2](Source/software_architecture.jpg)
 
 
-## 系统研发讨论
+System Development Discussion
 
-1. 持续对时序信号做test操作，如果置信度稳定上升，则认为用户在选择某个目标；如果下降又上升，则认为用户在转换目标。
-2. 基于扩展交互界面的multi-task, 基于EEG信号的transfer learning 
-3. 授时，server端授时，每隔一段时间与client端进行时间校正（代替并口trigger）
-4. wifi比蓝牙的带宽高，适合脑电
-5. 改DSI函数，实现新的硬件接入
-6. 端口号为NeuroScan的端口号
-(与陈雪松的讨论札记) 
+Temporal Signal Testing and Target Selection:
+"Continuous testing operations are performed on temporal signals. If the confidence level demonstrates a stable upward trend, it is inferred that the user is selecting a specific target. Conversely, if the confidence level initially declines and subsequently rises, it indicates that the user is switching targets."
+Multi-Tasking and EEG-Based Transfer Learning:
+"Implement multi-tasking functionality based on an expanded interactive interface. Employ transfer learning techniques utilizing EEG signals."
+Time Synchronization:
+"Implement server-side time synchronization, with periodic time correction between the server and client to replace parallel port triggering." Or another possible translation is: "Time stamping/synchronization. Server-side time stamping, with periodical time calibration between client and server, to replace parrallel port triggers."
+Wi-Fi for EEG Data Transmission:
+"Utilize Wi-Fi for EEG data transmission due to its higher bandwidth capacity compared to Bluetooth."
+DSI Function Modification:
+"Modify DSI functions to enable the integration of new hardware."
+Port Number Assignment:
+"Assign the port number corresponding to NeuroScan's port assignment." (Note regarding discussion records with Chen Xuesong.)
+Explanation of Key Terms and Nuances:
+
+Temporal Signals:
+This refers to signals that vary over time, crucial in analyzing dynamic systems like brain activity.
+Confidence Level:
+This represents the probability or certainty associated with a specific interpretation of the signal.
+Transfer Learning:
+A machine learning technique where a model trained on one task is repurposed as a starting point for a model on a second related task. This is highly useful when data is sparse for a target task, but very abundant for a related source task.
+EEG (Electroencephalography):
+A non-invasive method for recording electrical activity in the brain.
+DSI (Dense Sensor Interface):
+This is a term that could have specialized context, but from the surrounding context, would be assumed to be relating to how the system is interfacing with its sensors, so a modification of the DSI function, would mean a modification to how the sensor data is being handled.
+NeuroScan:
+This is known to be a company that produces equipment used for neurophysiological measurement.
+Key Considerations:
+
+When working with EEG data, accuracy and low latency are paramount. The choice of Wi-Fi reflects this need.
+Transfer learning is valuable in brain-computer interfaces (BCIs) due to the variability of EEG signals between individuals.
+Accurate Time synchronization is very important in the acquirement of EEG data.
+
 
 
 
