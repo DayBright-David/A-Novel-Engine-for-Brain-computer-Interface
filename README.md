@@ -31,7 +31,7 @@
 
  **Pipeline**
  
-![3](%20Interactive interface/sources/interactive_interface_pipeline.jpg)
+![3](Interactive%20interface/sources/interactive_interface_pipeline.jpg)
 
 **Evaluate**
 
