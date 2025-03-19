@@ -31,13 +31,13 @@
 
  **Pipeline**
  
-![3](Interactive_interface/sources/interactive_interface_pipeline.jpg)
+![3](%20Interactive interface/sources/interactive_interface_pipeline.jpg)
 
 **Evaluate**
 
-![4](Interactive_interface/sources/8_158Hz_60_fft.png)
+![4](Interactive%20interface/sources/8_158Hz_60_fft.png)
 
-![5](Interactive_interface/sources/8_158Hz_large_60_fft.png)
+![5](Interactive%20interface/sources/8_158Hz_large_60_fft.png)
 
 
 **Dependency**
