@@ -27,11 +27,12 @@
 
    Ref: Noninvasive neuroimagning enhances continuous neural tracking for robotic device control
 
-### 2. How to train a deep learning model?
+### 2. Interactive Interface Rendering
 
  **Pipeline**
  
-![3](Interactive%20interface/sources/interactive_interface_pipeline.jpg)
+
+<img src="Interactive%20interface/sources/interactive_interface_pipeline.jpg" width="300" />
 
 **Evaluate**
 
