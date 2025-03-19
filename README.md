@@ -29,18 +29,18 @@
 
 ### 2. How to train a deep learning model?
 
- ** Pipeline **
+ **Pipeline**
+ 
+![3](Interactive_interface/sources/interactive_interface_pipeline.jpg)
 
-![3](Interactive interface/sources/interactive_interface_pipeline.jpg)
+**Evaluate**
 
-** Evaluate **
+![4](Interactive_interface/sources/8_158Hz_60_fft.png)
 
-![4](Interactive interface/sources/8_158Hz_60_fft.png)
-
-![5](Interactive interface/sources/8_158Hz_large_60_fft.png)
+![5](Interactive_interface/sources/8_158Hz_large_60_fft.png)
 
 
-** Dependency **
+**Dependency**
 
 * OpenGL: GLM-0.9.9.8, GLFW, GLAD
 * Freetype-2.12.1
