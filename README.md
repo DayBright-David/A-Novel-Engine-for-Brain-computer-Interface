@@ -32,11 +32,11 @@
  **Pipeline**
  
 
-<img src="Interactive%20interface/sources/interactive_interface_pipeline.jpg" width="300" />
+<img src="Interactive%20interface/sources/interactive_interface_pipeline.jpg" width="600" />
 
 **Evaluate**
+<img src="Interactive%20interface/sources/8_158Hz_60_fft.png" width="600" />
 
-![4](Interactive%20interface/sources/8_158Hz_60_fft.png)
 
 ![5](Interactive%20interface/sources/8_158Hz_large_60_fft.png)
 
